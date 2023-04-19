@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Poppins:wght@400;500;600&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Alata", sans-serif;
+  font-family: "Poppins", sans-serif;
+}
